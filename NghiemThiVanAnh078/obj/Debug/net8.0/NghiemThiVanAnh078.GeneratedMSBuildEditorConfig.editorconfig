@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NghiemThiVanAnh078
+build_property.RootNamespace = NghiemThiVanAnh078
+build_property.ProjectDir = D:\NghiemThiVanAnh078\NghiemThiVanAnh078\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\NghiemThiVanAnh078\NghiemThiVanAnh078
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/NghiemThiVanAnh078/NghiemThiVanAnh078/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NghiemThiVanAnh078/NghiemThiVanAnh078/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NghiemThiVanAnh078/NghiemThiVanAnh078/Views/NTVA078/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTlRWQTA3OFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NghiemThiVanAnh078/NghiemThiVanAnh078/Views/NTVA078/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTlRWQTA3OFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NghiemThiVanAnh078/NghiemThiVanAnh078/Views/NTVA078/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTlRWQTA3OFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NghiemThiVanAnh078/NghiemThiVanAnh078/Views/NTVA078/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTlRWQTA3OFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NghiemThiVanAnh078/NghiemThiVanAnh078/Views/NTVA078/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTlRWQTA3OFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NghiemThiVanAnh078/NghiemThiVanAnh078/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NghiemThiVanAnh078/NghiemThiVanAnh078/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NghiemThiVanAnh078/NghiemThiVanAnh078/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NghiemThiVanAnh078/NghiemThiVanAnh078/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/NghiemThiVanAnh078/NghiemThiVanAnh078/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qcbx4wmp2z
